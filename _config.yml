@@ -8,7 +8,7 @@ url: https://hacked-jekyll.netlify.app
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Shane Kumar
   description:
     - Hello!
     - This tiny website
