@@ -14,10 +14,10 @@ json:
     - This tiny website
     - Looks like json
   cv: assets/cv.pdf
-  address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+ # address:
+ #   - University of Jekyll
+ #   - Department of Themes
+ #   - 123 Main St, Anytown, USA
   contact:
     office: Foobar Hall 1.23
     phone: +1 234 567 890
